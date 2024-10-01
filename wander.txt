@@ -1,5 +1,5 @@
 By William Wordsworth
-**I wandered lonely as a cloud
+I wandered lonely as a cloud
 That floats on high o'er vales and hills,
 When all at once I saw a crowd,
 A host, of golden daffodils;
@@ -25,6 +25,6 @@ In vacant or in pensive mood,
 They flash upon that inward eye
 Which is the bliss of solitude;
 And then my heart with pleasure fills,
-And dances with the daffodils.**
-:bouquet:
+And dances with the daffodils.
+
 
